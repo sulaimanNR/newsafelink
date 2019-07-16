@@ -1,0 +1,2 @@
+# newsafelink
+safelink direct new
